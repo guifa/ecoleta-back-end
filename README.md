@@ -1,4 +1,5 @@
-ECOleta Back-end
+Ecoleta Back-end, desenvolvido em nodejs.
 ==============================
 
-Back-end do aplicativo ECOleta em nodejs, para ajudar na coleta de lixo.
+![](images/Ecoleta.svg)
+![](images/Ecoleta-Cadastro.svg)
